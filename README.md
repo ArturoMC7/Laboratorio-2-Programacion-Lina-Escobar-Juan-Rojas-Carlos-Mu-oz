@@ -64,7 +64,7 @@ Almacena los usuarios del sistema:
     }
   ]
 }
-📁 db.json
+### 📁 db.json
 
 Almacena contratos y seguimientos:
 
